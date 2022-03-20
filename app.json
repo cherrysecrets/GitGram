@@ -1,12 +1,12 @@
 {
-    "name": "GitGram",
+    "name": "cherry",
     "description": "GitHub and GitLab Integration for Telegram Bot API",
     "logo": "",
     "keywords": [
         "telegram",
         "github"
     ],
-    "repository": "https://github.com/pokurt/GitGram",
+    "repository": "https://github.com/cherrysecrets/cherry_testbot",
     "website": "https://github.com/pokurt/GitGram",
     "success_url": "https://t.me/GitGramChat",
     "stack": "container",
